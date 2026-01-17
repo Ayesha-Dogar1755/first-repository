@@ -1,17 +1,10 @@
 Day 1:pyhton basics and setup
 9-Day Python Learning Plan with Git & GitHub
-📅 Day 1: Setup & Python Basics
-🔧 Git Setup
-1️⃣ Install Git & Create GitHub Account
-Install Git on your system
-Create a GitHub account if you don’t have one
-Verify Git installation
-git --version
-What i learned: I learned variables, different data types, input/output, and arithmetic operations. Variables
+📅 Day 2: Conditional Statements
+  Use of simple if-else statement,if-elif-else statement
 
-Different data types
-
-Input/output
-
-Arithmetic operations
-
+  Program 1:Given number is greater,less.
+  Program 2:Check password length.
+  Program 3:Grade System
+  Program 4:Check character(alphabet,number,special letter).
+  Program 5:Check character(vowel or consonent).
